@@ -1,0 +1,4 @@
+dependencies:
+- name: traefik/traefik
+  version: 2.4.2
+  repository: https://helm.traefik.io/traefik
